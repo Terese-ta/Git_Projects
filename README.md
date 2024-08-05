@@ -1,8 +1,6 @@
 # Git_Projects
-Description - Git projects for training video
-More git features
-I'm a SME - Git & Github
+Description 
+This project is designed for anyone that's new to git and github.
 
 #Local Development
 
-Opened new branch, feature
